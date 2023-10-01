@@ -1,0 +1,77 @@
+
+
+
+
+  .form-field {
+  margin: 10px auto; /* Center horizontally */
+  text-align: left; /* Reset text alignment to left */
+  max-width: 400px; /* Set a max width for the fields */
+}
+  
+  /* Form title with a monkey font */
+  .form-title {
+    font-family: 'Marker Monkey', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: black; /* Orange color */
+  }
+  
+  /* Form input fields with rounded corners */
+  .form-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  /* Monkey label style */
+  .monkey-label {
+    font-family: 'Marker Monkey', sans-serif;
+    font-size: 25px;
+    color: black; /* Green color */
+  }
+  
+  /* Error message style */
+  .error {
+    color: #bbff00; /* Red color */
+    font-weight: bold;
+  }
+  
+  /* Monkey button style */
+  .monkey-button {
+    
+    background-color: #996633; /* Brown color */
+    color: #fff; /* White color */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  /* Monkey button hover effect */
+  .monkey-button:hover {
+    background-color: #773d0b; /* Darker brown on hover */
+  }
+  
+  /* Monkey image for added fun */
+  .monkey-image {
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+  }
+
+  .form-fields {
+    display: grid;
+    gap: 10px;
+    max-width: 400px;
+    width: 100%;
+    text-align: left;
+  }
+
+  .button-container {
+    display: flex;
+    justify-content: center; /* Center buttons horizontally */
+    margin-top: 20px; /* Add spacing between form fields and buttons */
+  }

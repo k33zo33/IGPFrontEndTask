@@ -1,0 +1,35 @@
+{
+    "translation": {
+      "phone": "Phone",
+      "address": "Address",
+      "username": "Username",
+      "fname": "First name",
+      "lname": "Last name",
+      "email": "E-mail",
+      "birthdate": "Birthdate",
+      "password": "Password",
+      "password_confirm": "Password Confirmation",
+      "city": "City",
+      "min_length_not_met": "Minimum length not met",
+      "max_length_not_met": "Maximum length exceeded",
+      "regex_failed": "Regular expression validation failed",
+      "email_validation_failed": "Email validation failed",
+      "too_young": "You are too young",
+      "select": "Select",
+      "password_strength_failed": "Password strength validation failed",
+      "matchesField_failed": "Field does not match",
+      "required_field": "This field is required",
+      "gender": {
+        "label": "Gender",
+        "M": "Male",
+        "F": "Female"
+      },
+      "countrycode": {
+        "label": "Countrycode",
+        "me": "Montenegro",
+        "hr": "Croatia",
+        "mt": "Malta"
+      }
+    }
+  }
+  

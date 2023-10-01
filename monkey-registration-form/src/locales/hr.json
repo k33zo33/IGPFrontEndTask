@@ -1,0 +1,35 @@
+{
+    "translation": {
+      "phone": "Telefon",
+      "address": "Adresa",
+      "username": "Korisničko ime",
+      "fname": "Ime",
+      "lname": "Prezime",
+      "email": "E-mail",
+      "birthdate": "Datum rođenja",
+      "password": "Lozinka",
+      "password_confirm": "Potvrdite lozinku",
+      "city": "Grad",
+      "min_length_not_met": "Nije ispunjen minimalni broj znakova",
+      "max_length_not_met": "Premašena maksimalna duljina",
+      "regex_failed": "Validacija regularnog izraza nije uspjela",
+      "email_validation_failed": "Validacija e-pošte nije uspjela",
+      "too_young": "Premladi ste",
+      "select": "Odaberi",
+      "password_strength_failed": "Validacija snage lozinke nije uspjela",
+      "matchesField_failed": "Polje se ne podudara",
+      "required_field": "Ovo polje je obavezno",
+      "gender": {
+        "label": "Spol",
+        "M": "Muško",
+        "F": "Žensko"
+      },
+      "countrycode": {
+        "label": "Kod države",
+        "me": "Crna Gora",
+        "hr": "Hrvatska",
+        "mt": "Malta"
+      }
+    }
+  }
+  
